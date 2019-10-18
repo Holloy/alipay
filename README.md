@@ -31,7 +31,7 @@ Or you may just follow this manual if not.
 
 ```
 # installation
-
+pip uninstall pycrypto
 pip install python-alipay-sdk --upgrade
 ```
 
