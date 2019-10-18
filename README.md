@@ -31,6 +31,7 @@ Or you may just follow this manual if not.
 
 ```
 # installation
+
 pip install python-alipay-sdk --upgrade
 ```
 
