@@ -30,6 +30,8 @@
 #### 安装
 
 ```bash
+# 从 1.3.0升级上来的用户， 请先卸载pycrypto:
+pip install uninstall pycrypto
 # 安装python-alipay-sdk
 pip install python-alipay-sdk --upgrade
 ```
